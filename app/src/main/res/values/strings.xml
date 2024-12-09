@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bike Shop</string>
+    <string name="choose_your_bike">Choose Your Bike</string>
+    <string name="discount_main">30% Off</string>
+    <string name="all">All</string>
+</resources>
