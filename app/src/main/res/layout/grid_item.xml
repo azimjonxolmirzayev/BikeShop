@@ -2,41 +2,40 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="240dp"
-    android:padding="8dp"
     android:layout_margin="8dp"
     android:background="@drawable/buttons_grey_gradient"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:padding="8dp">
 
     <ImageView
         android:id="@+id/imageV"
         android:layout_width="match_parent"
         android:layout_height="150dp"
-        android:layout_gravity="center"
-        android:src="@drawable/bike2" />
+        android:layout_gravity="center" />
 
     <TextView
         android:id="@+id/categoryTv"
         android:layout_width="match_parent"
-        android:textColor="@color/white"
-        android:textSize="13dp"
         android:layout_height="wrap_content"
-        android:text="Road Bike" />
+        android:text="Road Bike"
+        android:textColor="@color/white"
+        android:textSize="13dp" />
 
     <TextView
         android:id="@+id/nameTv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="PEUGEOT - LR01"
         android:textColor="@color/white"
-        android:textSize="15dp"
-        android:text="PEUGEOT - LR01" />
+        android:textSize="15dp" />
 
     <TextView
         android:id="@+id/priceTv"
         android:layout_width="match_parent"
-        android:textColor="@color/white"
-        android:textSize="13dp"
         android:layout_height="wrap_content"
-        android:text="$ 1,999.99" />
+        android:text="$ 1,999.99"
+        android:textColor="@color/white"
+        android:textSize="13dp" />
 
 
 </LinearLayout>
