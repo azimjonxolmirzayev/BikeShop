@@ -55,8 +55,8 @@ cd BikeShop</pre>
 
 
  <h2>📸 Screenshots</h2>
- <img width="200px" src="https://github.com/user-attachments/assets/f7e364ed-e032-43c6-be06-688518c8f437" alt="Main Screen">
- <img width="200px" src="https://github.com/user-attachments/assets/722e3247-6a7e-4da5-8c3c-39bf02425d22" alt="Detail Screen">
+ <img width="200px" src="https://github.com/user-attachments/assets/e3a761b9-445e-414e-831b-399cc7d1f367" alt="Main Screen">
+ <img width="200px" src="https://github.com/user-attachments/assets/6e35573b-f9d2-43df-af36-114da464d1a6" alt="Detail Screen">
 
   <h2>👨‍💻 Author</h2>
   <p>Developed by <a href="https://github.com/azimjonxolmirzayev/">Azimjon Xolmirzayev</a>.</p>
